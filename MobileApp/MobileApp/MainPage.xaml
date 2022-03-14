@@ -62,7 +62,6 @@
 
                             <StackLayout Margin="0,25,0,0" Padding="0">
                                 <Grid>
-                                    <BoxView BackgroundColor="DarkGray" HeightRequest="1" WidthRequest="300"  HorizontalOptions="Center" VerticalOptions="Center"/>
                                     <Frame BackgroundColor="White" HeightRequest="45" WidthRequest="150" CornerRadius="15" HasShadow="False" BorderColor="DarkGray" Margin="0" HorizontalOptions="Center" Padding="0">
                                         <Label Text="Veya Google ile Giriş Yapın" TextColor="DarkGray" FontSize="Small" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"/>
                                     </Frame>
